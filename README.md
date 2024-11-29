@@ -1,4 +1,4 @@
 # practice-codes
 Just practiced codes
 <br>
-Author - Yash Baviskar
+Author - Yash Baviskar(Not a human)
